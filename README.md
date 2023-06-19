@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @desireejester
 - 👀 I’m interested in becoming a better coder
-- 🌱 I’m currently learning ... all things GIT and Gutenburg
-- 💞️ I’m looking to collaborate on firthering my skills as a Wordpress/ web developer
+- 🌱 I’m currently learning ... loads of new skills in my META front-end developer certification track
+- 💞️ I’m looking to collaborate on furthering my skills as a front-end developer
 - 📫 How to reach me ... HMU at hello@aplacetonest.net
 
 <!---
